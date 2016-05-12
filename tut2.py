@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 #
 #	   
-#	   (C) 2012 Alchimista <alchimistawp@gmail.com>
+#	   (C) 2016 Alchimista <alchimistawp@gmail.com>
 #		 
 #		Distributed under the terms of the GNU GPL license.
 
